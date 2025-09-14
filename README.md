@@ -66,7 +66,7 @@ lib/
 ├── widgets/               # Reusable UI components
 ├── services/              # External service integrations
 ├── utils/                 # Theme & constants
-└── data/                  # Static fallback university data
+└── data/                  # Fallback university data
 ```
 
 ---
@@ -148,4 +148,5 @@ lib/
 This app is tailored for **Pakistani university applicants**, with culturally relevant design and features to make application tracking simpler and more engaging.
 
 ---
+
 
