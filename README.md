@@ -39,7 +39,7 @@ Uni-Option is a **Flutter mobile application** designed to simplify access to un
 
 * **Models** (`lib/models/`): JSON-serializable classes with null safety and fallback values.
 * **Backend**: Supabase with PostgreSQL queries (nested joins for degrees & application steps).
-* **Static Data**: Fallback in `lib/data/universities_data.dart`.
+* **Data**: Fallback in `lib/data/universities_data.dart`.
 
 ### **UI Layer**
 
@@ -148,5 +148,6 @@ lib/
 This app is tailored for **Pakistani university applicants**, with culturally relevant design and features to make application tracking simpler and more engaging.
 
 ---
+
 
 
