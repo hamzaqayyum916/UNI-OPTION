@@ -1,0 +1,2 @@
+C:/Users/User/Desktop/FYP/Uni-Option-main/android/app/.cxx/Debug/4y6w5o1q/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/FYP/Uni-Option-main/android/app/.cxx/Debug/4y6w5o1q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
