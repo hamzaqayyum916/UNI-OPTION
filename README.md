@@ -131,11 +131,6 @@ lib/
 * **Analysis**: Configured with `analysis_options.yaml`.
 * **Testing**: Basic widget/unit tests included.
 
----
-
-## 📷 Screenshots (Optional)
-
-*Add app screenshots here for better visibility.*
 
 ---
 
@@ -153,3 +148,4 @@ lib/
 This app is tailored for **Pakistani university applicants**, with culturally relevant design and features to make application tracking simpler and more engaging.
 
 ---
+
